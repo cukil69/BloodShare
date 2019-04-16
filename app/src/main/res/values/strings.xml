@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BloodShare</string>
+
+    <string name="label_text_almost_there">Almost There</string>
+    <string name="label_text_almost_there_desc">Thankyou for registering with us. One more\nstep, you need to check your email\nto activate your account</string>
+    <string name="label_text_verify">Verify your Account</string>
+    <string name="label_text_verify_desc">We have send verification code to your email</string>
+    <string name="label_text_name">Syauqi Ilham</string>
+
+    <string name="label_hint_username">Username</string>
+    <string name="label_hint_password">Password</string>
+    <string name="label_hint_repassword">Retype Password</string>
+    <string name="label_hint_email">Email</string>
+    <string name="label_hint_phone">Phone Number</string>
+    <string name="label_hint_address">Home Address</string>
+    <string name="label_hint_location">Default Location</string>
+    <string name="label_hint_verif_code">enter verification code here...</string>
+
+    <string name="label_radio_male">Male</string>
+    <string name="label_radio_female">Female</string>
+    <string name="label_radio_personal">Personal</string>
+    <string name="label_radio_organization">Organization</string>
+
+    <string name="label_check_agreement">Agree with Terms and Conditions</string>
+
+    <string name="label_button_login">Login</string>
+    <string name="label_button_login_fb">Connect with Facebook</string>
+    <string name="label_button_dont_have_account_register">doesn\'t have account ? <b>Register</b></string>
+    <string name="label_button_dont_have_code">doesn\'t get the code? <b>Resend</b></string>
+    <string name="label_button_register">Register</string>
+    <string name="label_button_verify">Verify</string>
+    <string name="label_button_send">Send</string>
+
+    <string-array name="entry_spinner_blood_type">
+        <item>Blood Type</item>
+    </string-array>
+    <string-array name="entry_spinner_reshus">
+        <item>Reshus</item>
+    </string-array>
+    <string-array name="entry_spinner_job">
+        <item>Job</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorBlue</color>
+    <color name="colorPrimaryDark">@color/colorBlue</color>
+    <color name="colorAccent">@color/colorBlue</color>
+    <color name="colorBlue">#40B4E7</color>
+    <color name="colorShadowHeader">#d1d2d4</color>
+    <color name="colorSeparator">#BBBCBF</color>
+    <color name="colorFontInput">#949599</color>
+    <color name="colorInputBorder">#E8E8E9</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorBackgroundSemi">#aaffffff</color>
+</resources>

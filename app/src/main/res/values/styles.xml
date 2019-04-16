@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextName">
+        <item name="android:textColor">@color/colorBlue</item>
+        <item name="android:textSize">@dimen/font22</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextNameCollapsed">
+        <item name="android:layout_marginLeft">@dimen/dimen32</item>
+    </style>
+
+    <style name="EditTextWhite">
+        <item name="android:background">@drawable/bg_input_white</item>
+        <item name="android:paddingTop">@dimen/dimen16</item>
+        <item name="android:paddingBottom">@dimen/dimen16</item>
+        <item name="android:textColor">@color/colorBackground</item>
+        <item name="android:textColorHint">@color/colorBackgroundSemi</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+
+    <style name="EditTextGrey">
+        <item name="android:background">@drawable/bg_input_grey</item>
+        <item name="android:paddingTop">@dimen/dimen16</item>
+        <item name="android:paddingBottom">@dimen/dimen16</item>
+    </style>
+
+    <style name="RadioButton">
+        <item name="android:textColor">@color/colorFontInput</item>
+        <item name="android:paddingLeft">@dimen/dimen16</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Spinner" parent="Base.Widget.AppCompat.Spinner">
+        <item name="android:background">@drawable/bg_spinner_grey</item>
+        <item name="android:textColor">@color/colorFontInput</item>
+        <item name="android:paddingTop">@dimen/dimen16</item>
+        <item name="android:paddingBottom">@dimen/dimen16</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="ButtonWhite">
+        <item name="android:layout_height">@dimen/dimen52</item>
+        <item name="android:background">@drawable/bg_button_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/dimen16</item>
+        <item name="android:paddingBottom">@dimen/dimen16</item>
+        <item name="android:textColor">@color/colorBackground</item>
+    </style>
+
+    <style name="ButtonIconWhite">
+        <item name="android:layout_height">@dimen/dimen52</item>
+        <item name="android:background">@drawable/bg_button_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/dimen16</item>
+        <item name="android:paddingLeft">@dimen/dimen48</item>
+        <item name="android:paddingBottom">@dimen/dimen16</item>
+        <item name="android:drawablePadding">@dimen/dimen16</item>
+        <item name="android:textColor">@color/colorBackground</item>
+    </style>
+
+    <style name="ButtonBlue">
+        <item name="android:layout_height">@dimen/dimen52</item>
+        <item name="android:background">@drawable/bg_button_blue</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/dimen16</item>
+        <item name="android:paddingBottom">@dimen/dimen16</item>
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+
+</resources>
